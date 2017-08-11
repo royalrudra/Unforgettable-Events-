@@ -1,0 +1,26 @@
+/*about us in home page*/
+.about-us{
+  text-align: center;
+padding-top: 3%;
+}
+.about-us>h5{
+  font-size: 20px;
+  letter-spacing: 1.5px;
+
+}
+.about-us>h1{
+  font-size: 41px;
+    font-family: serif;
+    letter-spacing: 1.4px;
+}
+
+.about-item{
+  text-align: center;
+  padding-top: 3%;
+}
+.about-item>h3{
+  padding-top: 5px;
+}
+.about-item p{
+  padding-top: 5px;
+}
